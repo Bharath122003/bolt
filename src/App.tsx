@@ -33,7 +33,7 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-cover bg-center" style={{ backgroundImage: `url('https://images.unsplash.com/photo-1505765050516-f79dc3b77852?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')` }}>
+    <div className="min-h-screen bg-cover bg-center" style={{ backgroundImage: `url('https://images.unsplash.com/photo-1614154326574-957948580199?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D')` }}>
       <div className="bg-opacity-50 min-h-screen">
         <div className="container mx-auto p-8">
           <h1 className="text-4xl font-bold text-white mb-6 flex items-center">
